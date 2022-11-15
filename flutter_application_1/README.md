@@ -1,16 +1,24 @@
-# flutter_application_1
+# ПРАКТИЧЕСКАЯ РАБОТА №2
+## Работа с SQL Lite
+Цель: научиться работать с sql lite и создать бд по предметной области.
 
-A new Flutter project.
+Нужно для начала создать файлы сущностей для будущих моделей.
 
-## Getting Started
+ ![image](https://user-images.githubusercontent.com/77003061/202014360-bce6ba68-347f-4e1a-bb7d-e6a802bb4ab0.png)
 
-This project is a starting point for a Flutter application.
+Рисунок 11 – Сущности
 
-A few resources to get you started if this is your first Flutter project:
+Затем нужно создать модели, через которые будут заполняться таблицы.
+ 
+ ![image](https://user-images.githubusercontent.com/77003061/202014437-9bad5002-e495-4525-8bc5-4ae570abf99e.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Рисунок 12 – Модели
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Далее будет происходить инициализация и заполнение таблиц.
+
+ ![image](https://user-images.githubusercontent.com/77003061/202014481-4b11a269-5783-42da-8a79-1c1875aa20ab.png)
+
+Рисунок 13 – Инициализация БД
+
+Вывод: научились работать с sql lite и создали бд по предметной области.
+
