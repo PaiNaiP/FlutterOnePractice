@@ -1,16 +1,42 @@
-# app
+# ПРАКТИЧЕСКАЯ РАБОТА № 4
 
-A new Flutter project.
+## Цель: создать проект с использованием Cubit.
 
-## Getting Started
+Для начала нужно создать папку Cubit.
 
-This project is a starting point for a Flutter application.
+ ![image](https://user-images.githubusercontent.com/77003061/207292532-429b392d-4727-459b-a9a3-c50e13fbf03d.png)
 
-A few resources to get you started if this is your first Flutter project:
+Рисунок 15 – Cubit
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Далее создадим файлик с темой.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/77003061/207292588-55ccf3e7-e8bb-4cfa-b2bb-2c6a38765193.png)
+ 
+Рисунок 16 – Файлик с темой
+
+Также создадим файлик с состоянием темки.
+
+![image](https://user-images.githubusercontent.com/77003061/207292658-a6d98ba8-e923-4e5a-9e91-fae67ddb4697.png)
+ 
+Рисунок 17 – Состояние темки
+
+В main.dart мы расписываем само взаимодействие и таймер.
+
+![image](https://user-images.githubusercontent.com/77003061/207292762-fcda72c1-8360-4598-9b45-833e1c8bfa8d.png)
+ 
+Рисунок 18 – Таймер
+
+Результат
+
+![image](https://user-images.githubusercontent.com/77003061/207292863-fbb8538a-f7a7-4e29-b060-c57e81a0c328.png)
+ 
+Рисунок 19 – Тёмная
+
+![image](https://user-images.githubusercontent.com/77003061/207292885-5b379e35-cbf8-40c1-b048-61a8ac2af7df.png)
+ 
+Рисунок 20 – Светлая
+
+Вывод: создан проект с использованием Cubit.
+
+
+
